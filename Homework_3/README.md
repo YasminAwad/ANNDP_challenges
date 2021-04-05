@@ -2,7 +2,7 @@
 
 ## Visual Question Answering
 
-<img src="https://github.com/YasminAwad/ANNDP_challenges/blob/main/Homework_1/example.PNG" width="400" />
+<img src="https://github.com/YasminAwad/ANNDP_challenges/blob/main/Homework_3/example.PNG" width="400" />
 Q: Is the man's shirt blue?
 A: yes
 
